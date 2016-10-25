@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.strategy;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;
